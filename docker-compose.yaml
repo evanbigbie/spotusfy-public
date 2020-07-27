@@ -1,0 +1,14 @@
+version: '3'
+services:
+  web:
+    container_name: "spotusfy-web"
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    ports:
+      - "80:3000"
+    volumes:
+    - .:/usr/srv/app
+    - /usr/srv/app/node_modules
+    environment:
+      ENV: development

@@ -1,0 +1,20 @@
+#!/bin/bash
+
+set -ex
+
+# if there is a command passed to the container, run that command instead of starting the application
+# else run the default commands
+if [[ "$@" ]]
+then
+  exec "$@"
+else
+  if [[ $ENV == 'development' ]]
+  then
+    # runs the server with hot-reload enabled
+    npm run dev
+  else
+    # build/start the server if not on development
+    npm run build
+    npm run start
+  fi
+fi
