@@ -4,7 +4,7 @@
 
 I was responsible for the design, functionality, and copy for the landing page as well as the design and functionality of the play/pause button.
 
-# Original Project README:
+# Original Project Readme:
 
 # spotusfy-web
 
