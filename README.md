@@ -1,6 +1,8 @@
 # About:
 
-'Spotusfy' was my senior capstone project for my B.S. in Computer Science (May 2020) that I built with a team of 6 other people. This application utilizes the Spotify API to allow shared control of a mutual playlist between friends. While we did accomplish the creation and control of a shared playlist, a good deal of the application functionality was strung together and not in a very good state at the time of our project submission. This repository contains the last version I pulled that ran on my system without issue. I was responsible for the design, functionality, and copy for the landing page as well as the design and functionality of the play/pause button.
+'Spotusfy' was my senior capstone project for my B.S. in Computer Science (May 2020) that I built with a team of 6 other people. This application utilizes the Spotify API to allow shared control of a mutual playlist between friends. While we did accomplish the creation and control of a shared playlist, a good deal of the application functionality was strung together and not in a very good state at the time of our project submission. This repository contains the last version I pulled that ran on my system without issue. 
+
+I was responsible for the design, functionality, and copy for the landing page as well as the design and functionality of the play/pause button.
 
 # Original Project README:
 
