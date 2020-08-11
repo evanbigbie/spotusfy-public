@@ -6,6 +6,7 @@ I was responsible for the design, functionality, and copy for the landing page, 
 
 ## Original Readme:
 ## 
+# spotusfy-web
 
 > Static site to host functions for Spotusfy
 
