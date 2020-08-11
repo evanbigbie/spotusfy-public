@@ -4,7 +4,9 @@ Spotusfy was my senior capstone project for my CS Bachelor's that I built with a
 
 I was responsible for the design, functionality, and written content of the landing page, which is complete, as well as the design and functionality of the play/pause button in the session.
 
+## Closed:
 ![Landing page 1](images/spotusfy-closed.png)
+## Open:
 ![Landing page 2](images/spotusfy-open.png)
 
 ### original readme:
