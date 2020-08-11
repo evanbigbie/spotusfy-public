@@ -24,7 +24,7 @@ I was responsible for the design, functionality, and written content of the land
 
 ## Dev Setup
 
-``` bash
+```
 To run you need docker with docker-compose installed. Running `docker-compose
 build` will initialize your local image. `docker-compose up -d` will start the
 environment and expose port 80 on your docker-machine host (typically
