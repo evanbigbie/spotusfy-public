@@ -7,7 +7,7 @@ I was responsible for the design, functionality, and written content of the land
 ## Landing page - information section collapsed:
 ![Landing page 1](images/spotusfy-closed.png)<br/>
 ## Landing page - information section expanded:
-![Landing page 2](images/spotusfy-open.png)
+![Landing page 2](images/spotusfy-open.svg)
 <br/>
 
 ## Original Readme:
