@@ -9,7 +9,9 @@ I was responsible for the design, functionality, and written content of the land
 ## Landing page - information section expanded:
 ![Landing page 2](images/spotusfy-open.png)
 
-### original readme:
+## Original Readme:
+<br/>
+
 # spotusfy-web
 
 > Static site to host functions for Spotusfy
