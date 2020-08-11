@@ -1,4 +1,4 @@
-# spotusfy (2020)
+# Spotusfy (2020)
 
 Spotusfy was my senior capstone project for my B.S. in Computer Science (May 2020) that I built with a team of 6 other people. This application utilizes the Spotify API to allow shared control of a mutual playlist between friends via a shared session. While we did accomplish the creation and control of a shared playlist, a good deal of the application functionality was in an incomplete state at the time of our project submission. This repository contains the last version I pulled that ran on my system without issue. 
 
