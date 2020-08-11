@@ -4,7 +4,7 @@ Spotusfy was my senior capstone project for my B.S. in Computer Science (May 202
 
 I was responsible for the design, functionality, and written content of the landing page, which is complete, as well as the design and functionality of the play/pause button in the session.
 
-## original readme:
+### original readme:
 # spotusfy-web
 
 > Static site to host functions for Spotusfy
